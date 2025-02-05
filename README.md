@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **rastogivaishnavi68@gmail.com**
 
-- ⚡ Fun fact **I love football but I am not a guy 😝**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
