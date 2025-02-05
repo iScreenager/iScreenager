@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 💻 I'm **React JS frontend devloper**
+- 💻 I'm **React JS frontend developer**
   
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
